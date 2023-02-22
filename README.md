@@ -1,4 +1,4 @@
-Hangman Game
+Hangman Game:
 This is a full stack Hangman game built using React for frontend and Node.js for backend. The game randomly selects a word from a dictionary stored in a SQLite database, and the user has to guess the word using the 26 English alphabets within 6 lives.
 
 Installation
